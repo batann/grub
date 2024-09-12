@@ -1,4 +1,4 @@
-### **forked from https://github.com/Christitustech/Top-5-Bootloader-Themes*
+##### *forked from https://github.com/Christitustech/Top-5-Bootloader-Themes*
 
 
 Custom Grub Bootloader Themes
